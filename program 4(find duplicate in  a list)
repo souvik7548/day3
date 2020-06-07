@@ -1,0 +1,5 @@
+x=["ram","shyam","ram"]
+for i in x:
+    if i not in x:
+        i=i+x
+print(i)
