@@ -1,0 +1,2 @@
+x=("I am souvik from hindustan college of science and technology")
+print(x[::-1])
